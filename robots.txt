@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://TU-DOMINIO/sitemap.xml
+Sitemap: https://https://tarea15-liart.vercel.app//sitemap.xml
